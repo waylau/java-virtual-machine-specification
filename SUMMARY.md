@@ -2,6 +2,7 @@
 
 This is the summary of my book.
 
+* [Java SE 8 版本前言](docs/Preface/Preface to the Java SE 8 Edition.md)
 * [引言](docs/Introduction/Introduction.md)
     * [简史](docs/Introduction/A Bit of History.md)
     * [关于 JVM](docs/Introduction/The Java Virtual Machine.md)
