@@ -1,1 +1,7 @@
 # 反馈
+
+读者可以通过`jls-jvms-spec-comments@openjdk.java.net`来报告本规范中的技术错误和模糊之处。
+
+关于通过 javac 产生和操纵的 class 文件的问题，可以被发送到`compiler-dev@openjdk.java.net`。
+
+**译者注：**有管本规范的中文翻译，任何问题都可以在 <https://github.com/waylau/java-virtual-machine-specification/issues> 提问
