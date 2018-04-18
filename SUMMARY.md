@@ -12,7 +12,7 @@ This is the summary of my book.
 * [JVM 的结构](docs/The Structure of the Java Virtual Machine/The Structure of the Java Virtual Machine.md)
     * [class 文件格式](docs/The Structure of the Java Virtual Machine/The class File Format.md)
     * [数据类型](docs/The Structure of the Java Virtual Machine/Data Types.md)
-    * [原始类型与值](docs/The Structure of the Java Virtual Machine/Primitive Types and Values.md)
+    * [原始类型与值](docs/The%20Structure%20of%20the%20Java%20Virtual%20Machine/Primitive%20Types%20and%20Values.md)
     * [引用类型与值](docs/The Structure of the Java Virtual Machine/Reference Types and Values.md)
     * [运行时数据区](docs/The Structure of the Java Virtual Machine/Run-Time Data Areas.md)
     * [帧](docs/The Structure of the Java Virtual Machine/Frames.md)
