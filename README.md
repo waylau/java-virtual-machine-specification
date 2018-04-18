@@ -9,7 +9,16 @@ Chinese translation of [The Java® Virtual Machine Specification](http://docs.or
 书中所有实例，在<https://github.com/waylau/java-virtual-machine-specification> 的 `samples` 目录下。
 从[目录](SUMMARY.md)开始阅读吧！另外有 GitBook 的版本方便阅读 <http://waylau.gitbooks.io/java-virtual-machine-specification>。
 
-###Contact 联系作者:
+### Contact 联系作者:
 
-* [www.waylau.com](http://www.waylau.com)
+* Blog: [waylau.com](https://waylau.com)
+* Gmail: [waylau521(at)gmail.com](mailto:waylau521@gmail.com)
+* Weibo: [waylau521](http://weibo.com/waylau521)
+* Twitter: [waylau521](https://twitter.com/waylau521)
+* Github : [waylau](https://github.com/waylau)
+
+### Support Me 请老卫喝一杯
+
+![开源捐赠](https://waylau.com/images/showmethemoney-sm.jpg)
+
 
