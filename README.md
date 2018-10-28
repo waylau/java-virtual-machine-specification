@@ -1,8 +1,8 @@
-# java-virtual-machine-specification
+# The Java® Virtual Machine Specification.《Java 虚拟机规范（第11版）》中文翻译及示例
 
-Chinese translation of [The Java® Virtual Machine Specification](http://docs.oracle.com/javase/specs/jvms/se8/html/index.html).《Java 虚拟机规范》中文翻译及示例。
+Chinese translation of [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/jls/se11/html/index.html).《Java 虚拟机规范（第11版）》中文翻译及示例。
 
-本规范的最新版本为 Java SE 8。
+本规范的最新版本为 Java SE 11。
 
 本书业余时间所著，水平有限、时间紧张，难免疏漏，欢迎指正，[点此](https://github.com/waylau/java-virtual-machine-specification/issues)提问。感谢您的参与！
 
