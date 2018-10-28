@@ -10,4 +10,4 @@ JVM 与 Java 语言并没有必然的联系，它只与特定的二进制文件�
 
 基于安全方面的考虑，JVM 要求在 class 文件中使用了许多强制性的语法和结构化约束，但任一门功能性语言都可以表示为一个能被 JVM 接收的有效的 class 文件。作为一个通用的、机器无关的执行平台，任何其他语言的实现者都可以将 JVM 作为他们语言的产品交付媒介。
 
-这里指定的 JVM 是与 Java SE 8 平台兼容，并支持 [《Java 语言规范（Java SE8版）》](http://docs.oracle.com/javase/specs/jls/se8/html/index.html)中指定的 Java 编程语言。
+这里指定的 JVM 是与 Java SE 11 平台兼容，并支持 [《Java 语言规范（第11版）》](http://docs.oracle.com/javase/specs/jls/se11/html/index.html)中指定的 Java 编程语言。
