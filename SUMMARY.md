@@ -206,7 +206,7 @@
 * [10.3 Array Creation](docs/10-Arrays/10.3-Array-Creation.md)
 * [10.4 Array Access](docs/10-Arrays/10.4-Array-Access.md)
 * [10.5 Array Store Exception](docs/10-Arrays/10.5-Array-Store-Exception.md)
-* [10.6 Array Initializers](docs/10-Arrays10.6-Array-Initializers.md)
+* [10.6 Array Initializers](docs/10-Arrays/10.6-Array-Initializers.md)
 * [10.7 Array Members](docs/10-Arrays/10.7-Array-Members.md)
 * [10.8 Class Objects for Arrays](docs/10-Arrays/10.8-Class-Objects-for-Arrays.md)
 * [10.9 An Array of Characters Is Not a String](docs/10-Arrays/10.9-An-Array-of-Characters-Is-Not-a-String.md)
