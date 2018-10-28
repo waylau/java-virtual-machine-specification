@@ -226,8 +226,8 @@
 * [12.1.2 Link Test: Verify, Prepare, (Optionally) Resolve 376
 * [12.1.3 Initialize Test: Execute Initializers 377
 * [12.1.4 Invoke Test.main 378
-* [12.2 Loading of Classes and Interfaces](docs/12-Execution/12.2-Loading-of-Classes-and-Interfaces.md)
-* [12.2.1 The Loading Process 379
+* [12.2 加载类和接口](docs/12-Execution/12.2-Loading-of-Classes-and-Interfaces.md)
+* 12.2.1 加载过程
 * [12.3 Linking of Classes and Interfaces](docs/12-Execution/12.3-Linking-of-Classes-and-Interfaces.md)
 * [12.3.1 Verification of the Binary Representation 380
 * [12.3.2 Preparation of a Class or Interface Type 381
